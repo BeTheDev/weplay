@@ -3,9 +3,9 @@
 <table>
 <tbody>
 <tr>
-    <td>5</td>
-    <td>1</td>
-    <td>17</td>
+    <td>(3)</td>
+    <td>(9)</td>
+    <td>3</td>
     <td>18</td>
     <td>19</td>
 </tr>
